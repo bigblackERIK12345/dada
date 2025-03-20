@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Начинаем добавлять изминения"
 git add .
 git status
