@@ -8,5 +8,8 @@
     <NavItem>
         <NavLink href="/about">О нас</NavLink>
 </NavItem>
+<NavItem>
+    <NavLink href="/contacts">О нас</NavLink>
+</NavItem>
 </Nav>
 </Navbar>
