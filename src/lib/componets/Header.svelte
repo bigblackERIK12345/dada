@@ -2,11 +2,11 @@
     import {Nav,Navbar, NavbarBrand,NavItem,NavLink} from  '@sveltestrap/sveltestrap';
 </script>
 <Navbar>
-<NavbarBrand>Logo</NavbarBrand>
+<NavbarBrand href="/">Logotip</NavbarBrand>
 
 <Nav>
-    <NavItem><NavLink>Основы упражнений</NavLink></NavItem>
-    <NavItem><NavLink>Профилактика здоровья</NavLink></NavItem>
-    <NavItem><NavLink>Вредная еда</NavLink></NavItem>
+    <NavItem>
+        <NavLink href="/about">О нас</NavLink>
+</NavItem>
 </Nav>
 </Navbar>
