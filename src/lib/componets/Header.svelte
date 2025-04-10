@@ -11,5 +11,8 @@
 <NavItem>
     <NavLink href="/contacts">О нас</NavLink>
 </NavItem>
+<NavItem>
+    <NavLink href="/Doggy">Doggy</NavLink>
+</NavItem>
 </Nav>
 </Navbar>
