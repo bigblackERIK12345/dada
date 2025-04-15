@@ -1,6 +1,6 @@
 <script lang="ts">
-     import { GetToDos } from "$lib/store/ToDoStore";
-    import { Container } from "@sveltestrap/sveltestrap";
+     import { GetToDos,Todos } from "$lib/store/ToDoStore";
+    import { CardBody, Container,Card } from "@sveltestrap/sveltestrap";
  import { onMount } from "svelte";
  onMount(()=>{
     async function FetchTodos() {
@@ -13,4 +13,11 @@
     <title>Doggy</title>
 </svelte:head>
 
-<Container></Container>
+<Container>
+ {#each $Todos as todo}
+ <Col md={2}>
+ <Card>
+    <CardBody>{todo.title}</CardBody>
+ </Card>
+{/each}
+</Container>
