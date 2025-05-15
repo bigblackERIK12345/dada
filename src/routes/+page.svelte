@@ -14,7 +14,7 @@ import { CardBody, CardHeader, CardImg, Col, Row, Card, CardText, Container, For
                 <CardHeader>Участники</CardHeader>
                 <CardBody>
                     <CardImg src="https://i6.photo.2gis.com/images/branch/0/30258560050713274_2361.jpg"/>
-                    <CardText>Чертёнки</CardText>
+                    <CardText>Дети</CardText>
                 </CardBody>
             </Card>
         </Col>
@@ -22,7 +22,7 @@ import { CardBody, CardHeader, CardImg, Col, Row, Card, CardText, Container, For
             <Card>
                 <CardHeader>Командир</CardHeader>
                 <CardBody>
-                <CardImg src="https://femuscleblog.wordpress.com/wp-content/uploads/2017/12/skinny-rich10-1.jpg"/>
+                <CardImg src="https://s0.rbk.ru/v6_top_pics/media/img/4/20/754808416563204.jpg"/>
                     <CardText>Миша Щуплый</CardText>
                 </CardBody>
             </Card>

@@ -11,8 +11,5 @@
 <NavItem>
     <NavLink href="/contacts">Контакты</NavLink>
 </NavItem>
-<NavItem>
-    <NavLink href="/Doggy">Doggy</NavLink>
-</NavItem>
 </Nav>
 </Navbar>

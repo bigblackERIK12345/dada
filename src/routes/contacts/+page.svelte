@@ -9,10 +9,10 @@
 </svelte:head>
 
 <Container>
-    <h1>Не наши контакты</h1>
+    <h1>Наши контакты</h1>
     <ListGroup>
-        <ListGroupItem>Тел:911</ListGroupItem>
-        <ListGroupItem>Grove Street 15</ListGroupItem>
-        <Image class="w-100" src="https://avatars.mds.yandex.net/i?id=5a28d637d80a953bf7674e6e5713b8fdd60826a5-5234261-images-thumbs&n=13"/>
+        <ListGroupItem>Тел:+7 499 343-53-23</ListGroupItem>
+        <ListGroupItem>Шевченко 1723</ListGroupItem>
+        <Image class="w-100" src="https://avatars.mds.yandex.net/i?id=f8c03f08d87e8536af4329c2ff8bf65e_l-5530893-images-thumbs&n=13"/>
     </ListGroup>
 </Container>
