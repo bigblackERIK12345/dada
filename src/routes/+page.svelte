@@ -23,7 +23,7 @@ import { CardBody, CardHeader, CardImg, Col, Row, Card, CardText, Container, For
                 <CardHeader>Командир</CardHeader>
                 <CardBody>
                 <CardImg src="https://s0.rbk.ru/v6_top_pics/media/img/4/20/754808416563204.jpg"/>
-                    <CardText>Миша Щуплый</CardText>
+                    <CardText>Михаил Иванович</CardText>
                 </CardBody>
             </Card>
         </Col>
